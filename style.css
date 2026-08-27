@@ -32,6 +32,10 @@ html body{
     justify-content: center;
     margin-left: 15px;
 }
+.child.active-hover{
+    background-color: #57B52A !important
+    
+}
 .p2{
     display: flex;
     align-items: center;
